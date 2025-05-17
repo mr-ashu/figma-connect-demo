@@ -2,4 +2,4 @@ import { figma } from '@figma/code-connect';
 import { Button } from '../components/Button';
  
 
-figma.connect(Button, 'https://www.figma.com/design/vSw0yf1BCInUS3AjH82yFi/Search--Opportunities-?node-id=5-5053&m=dev');
+figma.connect(Button, 'https://www.figma.com/design/1i3zac55UYkWuF0wUbldTr/SMA-Design-System?node-id=53923-27460&m=dev');
